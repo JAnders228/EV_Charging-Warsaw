@@ -20,7 +20,7 @@ Assess Warsaw’s EV charging activity from the perspective of a major network o
 
  - What is the distribution of stations, and which show the highest usage? (kWh / plug / day)?
  - How does Greenway compare to other operators on utilisation and coverage?
- - Which locations merit follow-up (e.g. plug expansion, new stations)?
+ - Which locations merit follow-up (e.g. local investigation, plug expansion, new stations)?
 
 ## 3) Data & core metrics
 
@@ -67,6 +67,7 @@ Dashboard 2 — Expansion & detail
    Prices follow fixed time bands: Pricing is set by start-time buckets (off/mid/peak) rather than dynamically per station; price variation therefore largely reflects time-of-day mix rather than station-level pricing strategy.
  - Greenway is competitive: Greenway’s per-station performance is similar to peers overall. Differences between operators are modest.
  - Spatial opportunity: Many high-use stations are clustered in dense, central districts; however there are also high-use sites in less dense districts (e.g., Rembertów, Żoliborz) that may indicate other commuter hubs. Greenway has no station in one of these areas, Rembertów.
+ - Stations close to one another nevertheless differ in use, for example, Greenway’s Zoliborz station performs around 4Kwh/plug/day below it’s competitor. A modest difference, but representing 33 - 59 euros/day difference in revenue. Understanding local factors involved in why close stations differ in performance could inform expansion and marketing.
  - Timing vs intensity mismatch: 6 of the top 10 stations by median kWh/plug/day are not in the top 10 by mid-hour session starts. It’s possible this indicates some high-use stations accumulate energy outside of the main mid window, or have different session profiles. Duration/occupancy data is needed to determine which, and confirm true peak congestion. 
 
 ## 6) Interpretation & recommended next steps
