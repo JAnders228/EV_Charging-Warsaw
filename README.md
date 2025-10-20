@@ -1,5 +1,6 @@
 # EV_Charging-Warsaw
-Tableau EV Charging benchmarking and expansion analysis
+Tableau EV Charging benchmarking and expansion analysis:
+![Benchmarking_page-0001](https://github.com/user-attachments/assets/a06cd88d-f1a7-4dfe-a528-2da1cd84a817)
 
 Link: https://public.tableau.com/views/EVs_17609524518250/Expansion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
