@@ -4,7 +4,7 @@ Tableau EV Charging benchmarking and expansion analysis:
 
 Link: https://public.tableau.com/views/EVs_17609524518250/Expansion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Tools: Tableau, CSV/GeoJSON
+Tools: Tableau
 
 Scope: 1-day exploratory analysis 
 
@@ -15,12 +15,12 @@ Dataset: Synthetic Warsaw EV charging data (Kaggle) - session records, station m
 Assess Warsaw’s EV charging activity from the perspective of a major network operator (“Greenway”) to:
  - benchmark Greenway vs competitors
  - identify high-use stations and districts
- - identify candidate areas for further investigation and potential expansion.
+ - identify candidate areas for further investigation and potential expansion
 
 ## 2) Key questions
 
- - What is the distribution of stations, and which show the highest usage? (kWh / plug / day)?
- - How does Greenway compare to other operators on utilisation and coverage?
+ - Where are the stations, and which show the highest usage? (kWh / plug / day)?
+ - How does Greenway compare to other operators on utilisation and coverage of the districts/city?
  - Which locations merit follow-up (e.g. local investigation, plug expansion, new stations)?
 
 ## 3) Data & core metrics
